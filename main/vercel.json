@@ -1,9 +1,9 @@
 {
-  "redirects": [
+  "routes": [
     {
-      "source": "/",
-      "destination": "/main/index.html",
-      "permanent": true
+      "src": "/",
+      "status": 308,
+      "headers": { "Location": "/main/index.html" }
     }
   ]
 }
