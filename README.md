@@ -12,7 +12,7 @@
 
 - **minecraft servers that i play on**
 
-# link
+# Link
 ### https://caringchicken.vercel.app/main/index.html
 
 <center>
