@@ -14,3 +14,8 @@
 
 # link
 ### https://caringchicken.vercel.app/main/index.html
+
+<center>
+  <p>Below is how much people have seen this!:</p>
+  <img src="https://profile-counter.glitch.me/CaringChickensALT/count.svg">
+</center>
